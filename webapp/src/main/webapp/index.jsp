@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Name Harini</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter phone</b></label>
+    <label for="mobile"><b>Enter phone 1212</b></label>
     <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
     <br>
     
@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Email harinivishnu</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
