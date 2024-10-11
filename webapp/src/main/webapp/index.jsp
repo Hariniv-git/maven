@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-<<<<<<< HEAD
-    <label for="Name"><b>Enter Name Harini12</b></label>
-=======
+
     <label for="Name"><b>Enter Name </b></label>
->>>>>>> d899a93bb258d893c2bf36cff5414850c510fcea
+
+    <label for="Name"><b>Enter Name </b></label>
+
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
